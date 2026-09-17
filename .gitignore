@@ -1,3 +1,6 @@
 # macOS
 .DS_Store
 
+# eli5 skill generated artifacts (top-level only — skills/eli5/ is source)
+/eli5/
+
