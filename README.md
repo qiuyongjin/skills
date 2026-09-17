@@ -4,5 +4,7 @@ A collection of reusable AI skills.
 
 ## Skills
 
-- **[humanizer](./humanizer-1.0.0)** — `v1.0.0` — Remove signs of AI-generated writing from text. Use when editing or reviewing copy to make it read more naturally.
-- **[summarize](./summarize-1.0.0)** — `v1.0.0` — Summarize URLs or files (web, PDFs, images, audio, YouTube) with the [`summarize`](https://summarize.sh) CLI.
+| Skill | Version | Description |
+| --- | --- | --- |
+| [humanizer](./humanizer-1.0.0) | 1.0.0 | Remove signs of AI-generated writing from text. Use when editing or reviewing copy to make it read more naturally. |
+| [summarize](./summarize-1.0.0) | 1.0.0 | Summarize URLs or files (web, PDFs, images, audio, YouTube) with the [`summarize`](https://summarize.sh) CLI. |
