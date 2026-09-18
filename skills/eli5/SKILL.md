@@ -13,6 +13,3 @@ Topic: $ARGUMENTS
 
 Save to `<project-root>/eli5/<topic>.html` (the directory the user invoked the skill from).
 
-## Visual style
-
-Apply `references/style-guide.md` on every output. It defines the palette, typography, illustration rules, layout primitives, reusable icons, and voice. Following it is what makes outputs recognizably "eli5".
