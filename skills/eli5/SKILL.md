@@ -12,7 +12,3 @@ Topic: $ARGUMENTS
 ## Output location
 
 Save to `<project-root>/eli5/<topic>.html` (the directory the user invoked the skill from).
-
-- `<topic>` is a short slug derived from `$ARGUMENTS` (lowercase, dashes for spaces, strip punctuation). Reject empty slugs, `..`, `/`, or punctuation-only — ask the user to rephrase. For CJK topics, keep the raw characters.
-
-Draft (hook → 3–6 step sections → wow line), build the inline SVGs, then write the HTML to this path and show the artifact in the chat (with the file path).
